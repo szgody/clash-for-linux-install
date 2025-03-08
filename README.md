@@ -99,6 +99,8 @@ $ clashsecret
 ```
 
 ### `Tun` 模式
+#这里需要把编译好的clash 复制到 /opt/clash/bin/
+#cp clash /opt/clash/bin/
 
 ```bash
 $ clashtun
