@@ -101,10 +101,10 @@ $ clashsecret
 ### `Tun` 模式
 #这里需要把编译好的clash 复制到 /opt/clash/bin/
 #cp clash /opt/clash/bin/
-//在linux输入uname -m
-//x86_64
-//如果不是x84_64,可以在这里下载 Clash 相对应内核二进制文件: https://downloads.clash.wiki/ClashPremium 
-//还有别的问题也可以去https://clash.wiki/ 这个知识库中寻找解决方案
+在linux输入uname -m
+x86_64
+如果不是x84_64,可以在这里下载 Clash 相对应内核二进制文件: https://downloads.clash.wiki/ClashPremium 
+还有别的问题也可以去https://clash.wiki/ 这个知识库中寻找解决方案
 
 ```bash
 $ clashtun
